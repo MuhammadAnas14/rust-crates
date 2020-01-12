@@ -1,5 +1,5 @@
 [package]
-name = "struct-math"
+name = "struct_math"
 version = "0.1.0"
 authors = ["Anas452 <anasm9877@gmail.com>"]
 edition = "2018"
